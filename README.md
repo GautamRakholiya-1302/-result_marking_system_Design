@@ -1,3 +1,4 @@
 # result_marking_system_Design
 
-![Project Screenshot 1](1.png)
+![Image Alt Text](https://github.com/GautamRakholiya-1302/result_marking_system_Design/1.png)
+
